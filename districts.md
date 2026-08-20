@@ -589,8 +589,7 @@ To propose a change, open an issue using the district correction template.
 | TN-09 | Memphis South—Columbia |
 
 ## Texas (38) — **2025 mid-decade map**
-*Upheld by the Supreme Court, April 2026.*
-*Rules pass applied to the map in force for 2026. Names are drafted from geography, not verified against boundaries — audit required.*
+*Upheld by the Supreme Court, December 2025.*
 
 | # | Name |
 |---|---|
