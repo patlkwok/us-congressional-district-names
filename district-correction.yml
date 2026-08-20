@@ -1,0 +1,78 @@
+name: District correction
+description: Propose a change to a district's name
+title: "[DISTRICT] "
+labels: ["correction"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for checking. Reasoning matters more than the suggestion here, because the rules have to stay consistent across all 435 districts — a fix that solves one name by breaking a rule usually creates two new problems elsewhere.
+
+  - type: input
+    id: district
+    attributes:
+      label: District
+      description: e.g. IL-07, TX-23
+      placeholder: XX-00
+    validations:
+      required: true
+
+  - type: input
+    id: current
+    attributes:
+      label: Current name
+      description: Copy it exactly as it appears in the list
+    validations:
+      required: true
+
+  - type: input
+    id: proposed
+    attributes:
+      label: Proposed name
+      description: Leave blank if you're reporting a problem without a fix in mind
+    validations:
+      required: false
+
+  - type: dropdown
+    id: kind
+    attributes:
+      label: What's wrong
+      options:
+        - The district doesn't contain a place named
+        - A better anchor exists (bounds the district's extent better)
+        - The ordering is wrong
+        - A regional name fails the establishment test
+        - A regional name crosses a state line
+        - The name duplicates another in the list
+        - The map has changed
+        - Spelling or formatting
+        - Something else
+    validations:
+      required: true
+
+  - type: textarea
+    id: reasoning
+    attributes:
+      label: Reasoning
+      description: |
+        What makes the current name wrong, and what supports the alternative? Useful things to include: which places the district actually contains, populations, whether a regional name is genuinely used locally, and which rule you think applies.
+      placeholder: |
+        e.g. "IL-03 doesn't reach Cicero — the boundary runs along Harlem Avenue and Cicero sits entirely in IL-04. Belmont Cragin and Portage Park are both wholly inside IL-03, and Portage Park is the more peripheral of the two."
+    validations:
+      required: true
+
+  - type: input
+    id: source
+    attributes:
+      label: Source
+      description: Boundary map, census figure, or other reference — helpful but not required
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: local
+    attributes:
+      label: Optional
+      options:
+        - label: I know this area personally
+          required: false

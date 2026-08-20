@@ -1,0 +1,30 @@
+name: Rule discussion
+description: Challenge or refine one of the naming rules
+title: "[RULE] "
+labels: ["rules"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Several current rules exist because someone pointed out the previous version produced a bad name. That's the most useful kind of contribution.
+  - type: input
+    id: rule
+    attributes:
+      label: Which rule
+      description: Number and short description, e.g. "Rule 12, anchor ordering"
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: The problem
+      description: What does the rule get wrong, and on which districts? Concrete cases are much more persuasive than abstract objections.
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed change
+      description: How should the rule read instead? Note any districts whose names would change as a result.
+    validations:
+      required: false

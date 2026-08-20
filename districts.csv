@@ -1,0 +1,436 @@
+district,state,number,state_name,name
+AL-01,AL,01,Alabama,Mobile—Gulf Shores—Andalusia
+AL-02,AL,02,Alabama,Montgomery and the Wiregrass
+AL-03,AL,03,Alabama,Auburn—Anniston—Gadsden
+AL-04,AL,04,Alabama,Fort Payne—Cullman—Jasper
+AL-05,AL,05,Alabama,Huntsville and the Tennessee Valley
+AL-06,AL,06,Alabama,Birmingham East—Prattville
+AL-07,AL,07,Alabama,Birmingham West—Tuscaloosa—Selma
+AK-AL,AK,AL,Alaska,Alaska
+AZ-01,AZ,01,Arizona,Phoenix North—Scottsdale
+AZ-02,AZ,02,Arizona,Flagstaff—Navajo Nation—Globe
+AZ-03,AZ,03,Arizona,Phoenix West
+AZ-04,AZ,04,Arizona,Mesa West—Tempe—Chandler
+AZ-05,AZ,05,Arizona,Mesa East—Gilbert
+AZ-06,AZ,06,Arizona,Tucson East—Sierra Vista
+AZ-07,AZ,07,Arizona,Tucson South—Nogales—Yuma
+AZ-08,AZ,08,Arizona,Peoria—Surprise
+AZ-09,AZ,09,Arizona,Kingman—Lake Havasu City—Wickenburg
+AR-01,AR,01,Arkansas,Jonesboro and the Delta
+AR-02,AR,02,Arkansas,Little Rock
+AR-03,AR,03,Arkansas,Northwest Arkansas
+AR-04,AR,04,Arkansas,Pine Bluff—Hot Springs
+CA-01,CA,01,California,Santa Rosa—Chico—Susanville
+CA-02,CA,02,California,Redding—Eureka—San Rafael
+CA-03,CA,03,California,Rancho Cordova—Grass Valley—South Lake Tahoe
+CA-04,CA,04,California,Yuba City—Napa—Sonoma
+CA-05,CA,05,California,Mother Lode and the Eastern Sierra
+CA-06,CA,06,California,Sacramento North—Roseville
+CA-07,CA,07,California,Sacramento—Elk Grove
+CA-08,CA,08,California,Richmond—Vallejo—Vacaville
+CA-09,CA,09,California,Stockton North—Antioch—Tracy
+CA-10,CA,10,California,Diablo Valley
+CA-11,CA,11,California,San Francisco
+CA-12,CA,12,California,Oakland—Berkeley
+CA-13,CA,13,California,Modesto—Merced
+CA-14,CA,14,California,Fremont—Livermore
+CA-15,CA,15,California,Daly City—Redwood City
+CA-16,CA,16,California,San Jose South—Palo Alto—Half Moon Bay
+CA-17,CA,17,California,Santa Clara—Milpitas
+CA-18,CA,18,California,San Jose—Gilroy—Salinas
+CA-19,CA,19,California,Monterey Bay—Big Sur—Paso Robles
+CA-20,CA,20,California,Bakersfield West and Southern San Joaquin
+CA-21,CA,21,California,Fresno—Visalia
+CA-22,CA,22,California,Bakersfield East—Hanford
+CA-23,CA,23,California,Victorville and the Mojave
+CA-24,CA,24,California,Ventura—Santa Barbara—San Luis Obispo
+CA-25,CA,25,California,Coachella and Imperial Valleys
+CA-26,CA,26,California,Oxnard—Thousand Oaks
+CA-27,CA,27,California,Santa Clarita and the Antelope Valley
+CA-28,CA,28,California,Pasadena and the San Gabriel Valley
+CA-29,CA,29,California,Northern San Fernando Valley
+CA-30,CA,30,California,Hollywood—Burbank
+CA-31,CA,31,California,Pomona South—West Covina—Glendora
+CA-32,CA,32,California,Malibu—Los Angeles Westside—Simi Valley
+CA-33,CA,33,California,San Bernardino—Rancho Cucamonga
+CA-34,CA,34,California,Los Angeles Central
+CA-35,CA,35,California,Pomona North—Ontario—Fontana—Corona North
+CA-36,CA,36,California,Beverly Hills—Santa Monica—Palos Verdes
+CA-37,CA,37,California,South Los Angeles
+CA-38,CA,38,California,El Monte—Diamond Bar—Yorba Linda
+CA-39,CA,39,California,Riverside—Moreno Valley
+CA-40,CA,40,California,Corona South—Murrieta
+CA-41,CA,41,California,Downey—Whittier
+CA-42,CA,42,California,Long Beach—Huntington Beach—Costa Mesa
+CA-43,CA,43,California,Torrance—Inglewood—Compton
+CA-44,CA,44,California,South Gate—San Pedro
+CA-45,CA,45,California,Norwalk—Garden Grove—Fountain Valley
+CA-46,CA,46,California,Santa Ana—Anaheim
+CA-47,CA,47,California,Irvine—Dana Point
+CA-48,CA,48,California,Escondido—Temecula—Palm Springs
+CA-49,CA,49,California,San Clemente—Encinitas
+CA-50,CA,50,California,San Diego West—Poway
+CA-51,CA,51,California,San Diego North—El Cajon
+CA-52,CA,52,California,San Diego South—Chula Vista
+CO-01,CO,01,Colorado,Denver
+CO-02,CO,02,Colorado,Fort Collins—Boulder—Vail
+CO-03,CO,03,Colorado,Pueblo and the Western Slope
+CO-04,CO,04,Colorado,Loveland—Castle Rock—Eastern Plains
+CO-05,CO,05,Colorado,Colorado Springs
+CO-06,CO,06,Colorado,Aurora—Centennial
+CO-07,CO,07,Colorado,Arvada—Lakewood—Cañon City
+CO-08,CO,08,Colorado,Thornton—Greeley
+CT-01,CT,01,Connecticut,Hartford
+CT-02,CT,02,Connecticut,Eastern Connecticut
+CT-03,CT,03,Connecticut,New Haven
+CT-04,CT,04,Connecticut,Bridgeport—Stamford
+CT-05,CT,05,Connecticut,Western Connecticut
+DE-AL,DE,AL,Delaware,Delaware
+FL-01,FL,01,Florida,Pensacola
+FL-02,FL,02,Florida,Tallahassee—Panama City—Big Bend
+FL-03,FL,03,Florida,Gainesville—Ocala
+FL-04,FL,04,Florida,Jacksonville West
+FL-05,FL,05,Florida,Jacksonville East—St. Augustine
+FL-06,FL,06,Florida,Palm Coast—Daytona
+FL-07,FL,07,Florida,Sanford—New Smyrna Beach
+FL-08,FL,08,Florida,Space Coast
+FL-09,FL,09,Florida,Kissimmee—Okeechobee
+FL-10,FL,10,Florida,Orlando
+FL-11,FL,11,Florida,The Villages—Clermont
+FL-12,FL,12,Florida,Tampa North—Port Richey
+FL-13,FL,13,Florida,Palm Harbor—Clearwater—Pinellas Park
+FL-14,FL,14,Florida,Tampa South—Brandon—Riverview
+FL-15,FL,15,Florida,Spring Hill—Temple Terrace
+FL-16,FL,16,Florida,St. Petersburg—Bradenton—Arcadia
+FL-17,FL,17,Florida,Fort Myers—Port Charlotte—Sarasota
+FL-18,FL,18,Florida,Lakeland—Winter Haven
+FL-19,FL,19,Florida,Cape Coral—Naples
+FL-20,FL,20,Florida,Fort Lauderdale West—Sunrise
+FL-21,FL,21,Florida,Port St. Lucie—Palm Beach Gardens
+FL-22,FL,22,Florida,Wellington—Clewiston—Marco Island
+FL-23,FL,23,Florida,West Palm Beach—Boynton Beach
+FL-24,FL,24,Florida,Miami North—Miami Gardens—Hollywood
+FL-25,FL,25,Florida,Fort Lauderdale East—Miami Beach—Boca Raton
+FL-26,FL,26,Florida,Hialeah—Pembroke Pines
+FL-27,FL,27,Florida,Miami South—Coral Gables
+FL-28,FL,28,Florida,Homestead and the Florida Keys
+GA-01,GA,01,Georgia,Savannah—Brunswick
+GA-02,GA,02,Georgia,Columbus—Macon—Albany
+GA-03,GA,03,Georgia,Newnan—LaGrange
+GA-04,GA,04,Georgia,Stonecrest—Peachtree Corners
+GA-05,GA,05,Georgia,Atlanta
+GA-06,GA,06,Georgia,Sandy Springs South—Douglasville—Union City
+GA-07,GA,07,Georgia,Sandy Springs North—Roswell—Dahlonega
+GA-08,GA,08,Georgia,Valdosta—Milledgeville
+GA-09,GA,09,Georgia,Gainesville—Mulberry
+GA-10,GA,10,Georgia,Athens—Madison
+GA-11,GA,11,Georgia,Marietta—Canton—Calhoun
+GA-12,GA,12,Georgia,Augusta—Statesboro
+GA-13,GA,13,Georgia,Lawrenceville—Stockbridge
+GA-14,GA,14,Georgia,Rome—Dalton
+HI-01,HI,01,Hawaii,Honolulu
+HI-02,HI,02,Hawaii,Rural Oʻahu and the Neighbor Islands
+ID-01,ID,01,Idaho,Western Idaho
+ID-02,ID,02,Idaho,Eastern Idaho
+IL-01,IL,01,Illinois,Chicago South Side East—Oak Forest—New Lenox—Bourbonnais
+IL-02,IL,02,Illinois,Kenwood—Chicago Southland—Kankakee—Danville
+IL-03,IL,03,Illinois,Chicago Northwest Side—Addison—Wheaton
+IL-04,IL,04,Illinois,Chicago Southwest Side—Cicero—Elmhurst East
+IL-05,IL,05,Illinois,Chicago North Side—Arlington Heights—Palatine
+IL-06,IL,06,Illinois,Orland Park—Downers Grove—Elmhurst West
+IL-07,IL,07,Illinois,Chicago South Side West—Loop—Oak Park
+IL-08,IL,08,Illinois,Elgin—Schaumburg
+IL-09,IL,09,Illinois,Evanston—Skokie—Algonquin
+IL-10,IL,10,Illinois,Waukegan—Wheeling
+IL-11,IL,11,Illinois,Naperville—Aurora North—Woodstock
+IL-12,IL,12,Illinois,Southern Illinois
+IL-13,IL,13,Illinois,Champaign—Springfield—Belleville
+IL-14,IL,14,Illinois,Joliet—Aurora South—DeKalb—Ottawa
+IL-15,IL,15,Illinois,Central Illinois
+IL-16,IL,16,Illinois,Rockford East—Pekin
+IL-17,IL,17,Illinois,Rockford West—Moline—Peoria—Bloomington
+IN-01,IN,01,Indiana,Northwest Indiana
+IN-02,IN,02,Indiana,South Bend—Wabash
+IN-03,IN,03,Indiana,Fort Wayne
+IN-04,IN,04,Indiana,Lafayette
+IN-05,IN,05,Indiana,Carmel—Muncie—Kokomo
+IN-06,IN,06,Indiana,Greenwood—Columbus—Richmond
+IN-07,IN,07,Indiana,Indianapolis
+IN-08,IN,08,Indiana,Evansville—Terre Haute
+IN-09,IN,09,Indiana,Bloomington—Jeffersonville
+IA-01,IA,01,Iowa,Davenport—Iowa City
+IA-02,IA,02,Iowa,Cedar Rapids—Dubuque—Mason City
+IA-03,IA,03,Iowa,Des Moines
+IA-04,IA,04,Iowa,Sioux City—Council Bluffs—Ames
+KS-01,KS,01,Kansas,Lawrence and Western Kansas
+KS-02,KS,02,Kansas,Topeka—Kansas City
+KS-03,KS,03,Kansas,Overland Park
+KS-04,KS,04,Kansas,Wichita
+KY-01,KY,01,Kentucky,Jackson Purchase and the Pennyrile
+KY-02,KY,02,Kentucky,Owensboro—Elizabethtown
+KY-03,KY,03,Kentucky,Louisville
+KY-04,KY,04,Kentucky,Northern Kentucky
+KY-05,KY,05,Kentucky,Eastern Kentucky
+KY-06,KY,06,Kentucky,Lexington and the Bluegrass
+LA-01,LA,01,Louisiana,Metairie—Northshore
+LA-02,LA,02,Louisiana,New Orleans—Baton Rouge West
+LA-03,LA,03,Louisiana,Acadiana
+LA-04,LA,04,Louisiana,Shreveport—Sulphur
+LA-05,LA,05,Louisiana,Monroe—Alexandria
+LA-06,LA,06,Louisiana,Baton Rouge East—Thibodaux
+ME-01,ME,01,Maine,Portland and Southern Maine
+ME-02,ME,02,Maine,Bangor and Northern Maine
+MD-01,MD,01,Maryland,Salisbury—Bel Air
+MD-02,MD,02,Maryland,Towson—Westminster
+MD-03,MD,03,Maryland,Columbia—Annapolis
+MD-04,MD,04,Maryland,College Park—Laurel
+MD-05,MD,05,Maryland,Southern Maryland
+MD-06,MD,06,Maryland,Western Maryland
+MD-07,MD,07,Maryland,Baltimore
+MD-08,MD,08,Maryland,Silver Spring—Bethesda—Rockville
+MA-01,MA,01,Massachusetts,Springfield and the Berkshires
+MA-02,MA,02,Massachusetts,Worcester—Amherst
+MA-03,MA,03,Massachusetts,Lawrence—Lowell—Fitchburg
+MA-04,MA,04,Massachusetts,Fall River—Newton
+MA-05,MA,05,Massachusetts,Cambridge West—Framingham
+MA-06,MA,06,Massachusetts,Lynn and the North Shore
+MA-07,MA,07,Massachusetts,Boston West—Cambridge East—Somerville
+MA-08,MA,08,Massachusetts,Boston East—Quincy—Brockton
+MA-09,MA,09,Massachusetts,Cape Cod and the Islands
+MI-01,MI,01,Michigan,Marquette—Traverse City
+MI-02,MI,02,Michigan,Mount Pleasant—Cadillac
+MI-03,MI,03,Michigan,Grand Rapids—Muskegon
+MI-04,MI,04,Michigan,Kalamazoo—Holland
+MI-05,MI,05,Michigan,Monroe—Jackson—Niles
+MI-06,MI,06,Michigan,Ann Arbor
+MI-07,MI,07,Michigan,Lansing—Howell
+MI-08,MI,08,Michigan,Flint—Saginaw
+MI-09,MI,09,Michigan,Port Huron and the Thumb
+MI-10,MI,10,Michigan,Rochester Hills—Sterling Heights—St. Clair Shores
+MI-11,MI,11,Michigan,Troy—Farmington Hills—Pontiac
+MI-12,MI,12,Michigan,Detroit West—Dearborn
+MI-13,MI,13,Michigan,Detroit East—Taylor
+MN-01,MN,01,Minnesota,Rochester—Mankato
+MN-02,MN,02,Minnesota,Eagan—Lakeville—Northfield
+MN-03,MN,03,Minnesota,Bloomington—Plymouth—Brooklyn Park
+MN-04,MN,04,Minnesota,St. Paul
+MN-05,MN,05,Minnesota,Minneapolis
+MN-06,MN,06,Minnesota,St. Cloud—Blaine—Chaska
+MN-07,MN,07,Minnesota,Western Minnesota
+MN-08,MN,08,Minnesota,Duluth and the Arrowhead
+MS-01,MS,01,Mississippi,Southaven—Tupelo
+MS-02,MS,02,Mississippi,Jackson West and the Delta
+MS-03,MS,03,Mississippi,Jackson East—Meridian
+MS-04,MS,04,Mississippi,Gulfport—Hattiesburg
+MO-01,MO,01,Missouri,St. Louis
+MO-02,MO,02,Missouri,Chesterfield—Oakville
+MO-03,MO,03,Missouri,Columbia—St. Charles
+MO-04,MO,04,Missouri,Kansas City West—Lebanon
+MO-05,MO,05,Missouri,Kansas City East—Jefferson City
+MO-06,MO,06,Missouri,St. Joseph and Northern Missouri
+MO-07,MO,07,Missouri,Springfield—Joplin
+MO-08,MO,08,Missouri,Cape Girardeau—Poplar Bluff—West Plains
+MT-01,MT,01,Montana,Western Montana
+MT-02,MT,02,Montana,Eastern Montana
+NE-01,NE,01,Nebraska,Lincoln—Bellevue—Fremont
+NE-02,NE,02,Nebraska,Omaha
+NE-03,NE,03,Nebraska,Western Nebraska
+NV-01,NV,01,Nevada,Las Vegas South—Henderson
+NV-02,NV,02,Nevada,Reno and Northern Nevada
+NV-03,NV,03,Nevada,Las Vegas West—Laughlin
+NV-04,NV,04,Nevada,Las Vegas North—Tonopah
+NH-01,NH,01,New Hampshire,Manchester and the Seacoast
+NH-02,NH,02,New Hampshire,Nashua—Concord—Berlin
+NJ-01,NJ,01,New Jersey,Camden County—Gloucester North
+NJ-02,NJ,02,New Jersey,Vineland—Atlantic City
+NJ-03,NJ,03,New Jersey,Burlington County—Monmouth West
+NJ-04,NJ,04,New Jersey,Toms River—Lakewood—Middletown
+NJ-05,NJ,05,New Jersey,Hackensack—Mahwah
+NJ-06,NJ,06,New Jersey,New Brunswick—Neptune
+NJ-07,NJ,07,New Jersey,Westfield—Phillipsburg
+NJ-08,NJ,08,New Jersey,Elizabeth—Newark North—Jersey City—Union City
+NJ-09,NJ,09,New Jersey,Paterson—Clifton
+NJ-10,NJ,10,New Jersey,Newark South—Orange
+NJ-11,NJ,11,New Jersey,Parsippany—Bloomfield
+NJ-12,NJ,12,New Jersey,Trenton—Princeton
+NM-01,NM,01,New Mexico,Albuquerque
+NM-02,NM,02,New Mexico,Las Cruces and Southern New Mexico
+NM-03,NM,03,New Mexico,Santa Fe and Northern New Mexico
+NY-01,NY,01,New York,Suffolk County East
+NY-02,NY,02,New York,South Shore Suffolk
+NY-03,NY,03,New York,North Shore Nassau
+NY-04,NY,04,New York,South Shore Nassau
+NY-05,NY,05,New York,Southeast Queens
+NY-06,NY,06,New York,Flushing—Forest Hills
+NY-07,NY,07,New York,Brooklyn Central—Long Island City—Ridgewood
+NY-08,NY,08,New York,Bedford-Stuyvesant—Canarsie—Coney Island
+NY-09,NY,09,New York,Crown Heights—Flatbush
+NY-10,NY,10,New York,Lower Manhattan—Brooklyn West
+NY-11,NY,11,New York,Staten Island—Bay Ridge
+NY-12,NY,12,New York,Midtown Manhattan—Central Park
+NY-13,NY,13,New York,Harlem—West Bronx
+NY-14,NY,14,New York,East Bronx—Astoria
+NY-15,NY,15,New York,South Bronx
+NY-16,NY,16,New York,Yonkers—White Plains
+NY-17,NY,17,New York,Lower Hudson Valley
+NY-18,NY,18,New York,Mid-Hudson Valley
+NY-19,NY,19,New York,Southern Tier and the Catskills
+NY-20,NY,20,New York,Albany—Schenectady
+NY-21,NY,21,New York,Adirondacks
+NY-22,NY,22,New York,Syracuse—Utica
+NY-23,NY,23,New York,Jamestown—Elmira
+NY-24,NY,24,New York,Watertown—Oswego—Lockport
+NY-25,NY,25,New York,Rochester
+NY-26,NY,26,New York,Buffalo—Niagara Falls
+NC-01,NC,01,North Carolina,Rocky Mount and Northeastern North Carolina
+NC-02,NC,02,North Carolina,Raleigh
+NC-03,NC,03,North Carolina,Greenville—Jacksonville
+NC-04,NC,04,North Carolina,Durham—Chapel Hill
+NC-05,NC,05,North Carolina,Greensboro East—Mount Airy
+NC-06,NC,06,North Carolina,Greensboro West—High Point—Concord West
+NC-07,NC,07,North Carolina,Fayetteville East—Wilmington
+NC-08,NC,08,North Carolina,Concord East—Lumberton
+NC-09,NC,09,North Carolina,Fayetteville West—Asheboro
+NC-10,NC,10,North Carolina,Winston-Salem—Mooresville—Hickory
+NC-11,NC,11,North Carolina,Asheville and Western North Carolina
+NC-12,NC,12,North Carolina,Charlotte
+NC-13,NC,13,North Carolina,Wake Forest—Smithfield
+NC-14,NC,14,North Carolina,Gastonia—Morganton
+ND-AL,ND,AL,North Dakota,North Dakota
+OH-01,OH,01,Ohio,Cincinnati
+OH-02,OH,02,Ohio,Southern Ohio
+OH-03,OH,03,Ohio,Columbus East—Reynoldsburg—Worthington
+OH-04,OH,04,Ohio,Springfield—Mansfield South—Lima
+OH-05,OH,05,Ohio,Elyria—Mansfield North—Findlay
+OH-06,OH,06,Ohio,Youngstown—Wooster South—Steubenville
+OH-07,OH,07,Ohio,Wooster North—Medina
+OH-08,OH,08,Ohio,Hamilton—Troy—Greenville
+OH-09,OH,09,Ohio,Toledo—Sandusky
+OH-10,OH,10,Ohio,Dayton
+OH-11,OH,11,Ohio,Cleveland
+OH-12,OH,12,Ohio,Newark—Zanesville
+OH-13,OH,13,Ohio,Akron—Canton
+OH-14,OH,14,Ohio,Mentor—Warren
+OH-15,OH,15,Ohio,Columbus West—Washington Court House—Piqua
+OK-01,OK,01,Oklahoma,Tulsa
+OK-02,OK,02,Oklahoma,Eastern Oklahoma
+OK-03,OK,03,Oklahoma,Western Oklahoma
+OK-04,OK,04,Oklahoma,Norman—Lawton
+OK-05,OK,05,Oklahoma,Oklahoma City
+OR-01,OR,01,Oregon,Portland West and Northwest Oregon
+OR-02,OR,02,Oregon,Eastern Oregon
+OR-03,OR,03,Oregon,Portland East and the Columbia Gorge
+OR-04,OR,04,Oregon,Eugene—Corvallis—Coos Bay
+OR-05,OR,05,Oregon,Bend—Oregon City
+OR-06,OR,06,Oregon,Salem—Beaverton
+PA-01,PA,01,Pennsylvania,Bucks County
+PA-02,PA,02,Pennsylvania,Philadelphia East
+PA-03,PA,03,Pennsylvania,Philadelphia West
+PA-04,PA,04,Pennsylvania,Montgomery County—Berks North
+PA-05,PA,05,Pennsylvania,Delaware County
+PA-06,PA,06,Pennsylvania,Reading—West Chester
+PA-07,PA,07,Pennsylvania,Allentown and the Lehigh Valley
+PA-08,PA,08,Pennsylvania,Scranton and the Poconos
+PA-09,PA,09,Pennsylvania,Williamsport—Bloomsburg—Lebanon
+PA-10,PA,10,Pennsylvania,Harrisburg—York—Carlisle
+PA-11,PA,11,Pennsylvania,Lancaster County—York South
+PA-12,PA,12,Pennsylvania,Pittsburgh
+PA-13,PA,13,Pennsylvania,Altoona—Chambersburg
+PA-14,PA,14,Pennsylvania,Greensburg—Washington—Uniontown
+PA-15,PA,15,Pennsylvania,State College and North Central Pennsylvania
+PA-16,PA,16,Pennsylvania,Erie—Meadville—Butler
+PA-17,PA,17,Pennsylvania,Mt. Lebanon—Beaver Falls
+RI-01,RI,01,Rhode Island,Providence East—Woonsocket—Newport
+RI-02,RI,02,Rhode Island,Providence West—Warwick
+SC-01,SC,01,South Carolina,Charleston South and the Lowcountry
+SC-02,SC,02,South Carolina,Aiken—Lexington—West Columbia
+SC-03,SC,03,South Carolina,Anderson—Greenwood
+SC-04,SC,04,South Carolina,Greenville—Spartanburg
+SC-05,SC,05,South Carolina,Rock Hill—Sumter North
+SC-06,SC,06,South Carolina,Charleston North—Columbia—Sumter South
+SC-07,SC,07,South Carolina,Myrtle Beach—Florence
+SD-AL,SD,AL,South Dakota,South Dakota
+TN-01,TN,01,Tennessee,Johnson City—Kingsport—Morristown
+TN-02,TN,02,Tennessee,Knoxville
+TN-03,TN,03,Tennessee,Chattanooga—Oak Ridge
+TN-04,TN,04,Tennessee,Murfreesboro—McMinnville
+TN-05,TN,05,Tennessee,Memphis West—Dyersburg—Franklin
+TN-06,TN,06,Tennessee,Nashville South—Cookeville
+TN-07,TN,07,Tennessee,Nashville North—Clarksville
+TN-08,TN,08,Tennessee,Memphis East—Jackson
+TN-09,TN,09,Tennessee,Memphis South—Columbia
+TX-01,TX,01,Texas,Texarkana—Tyler—Nacogdoches
+TX-02,TX,02,Texas,The Woodlands—Spring—Atascocita
+TX-03,TX,03,Texas,Plano East—McKinney—Mount Pleasant
+TX-04,TX,04,Texas,Plano West—Frisco—Sherman—Paris
+TX-05,TX,05,Texas,Garland South—Mesquite—Palestine
+TX-06,TX,06,Texas,Irving—Arlington Central—Waxahachie
+TX-07,TX,07,Texas,Houston West—Sugar Land West
+TX-08,TX,08,Texas,Huntsville East—Conroe—Katy West
+TX-09,TX,09,Texas,Pasadena—Baytown—Dayton
+TX-10,TX,10,Texas,Austin West—College Station—Huntsville West
+TX-11,TX,11,Texas,Midland—San Angelo—Pflugerville
+TX-12,TX,12,Texas,Fort Worth West—Weatherford
+TX-13,TX,13,Texas,Amarillo—Wichita Falls—Denton
+TX-14,TX,14,Texas,Beaumont East—Galveston—League City
+TX-15,TX,15,Texas,Edinburg—Beeville—Cuero
+TX-16,TX,16,Texas,El Paso
+TX-17,TX,17,Texas,Waco—Round Rock
+TX-18,TX,18,Texas,Houston East—Missouri City
+TX-19,TX,19,Texas,Lubbock—Abilene
+TX-20,TX,20,Texas,San Antonio Central
+TX-21,TX,21,Texas,San Antonio North—New Braunfels—Kerrville
+TX-22,TX,22,Texas,Sugar Land East—Katy East—Rosenberg—Lake Jackson
+TX-23,TX,23,Texas,San Antonio West—Eagle Pass—Pecos
+TX-24,TX,24,Texas,North Richland Hills—Grapevine—University Park
+TX-25,TX,25,Texas,Arlington North—Fort Worth East—Stephenville—Graham
+TX-26,TX,26,Texas,Lewisville—Gainesville—Decatur
+TX-27,TX,27,Texas,Corpus Christi North—Victoria—Kyle
+TX-28,TX,28,Texas,Laredo—McAllen—Pleasanton
+TX-29,TX,29,Texas,Houston North—Aldine
+TX-30,TX,30,Texas,Dallas South—DeSoto—Arlington South
+TX-31,TX,31,Texas,Killeen—Georgetown
+TX-32,TX,32,Texas,Carrollton—Garland North—Gilmer
+TX-33,TX,33,Texas,Dallas North—Grand Prairie
+TX-34,TX,34,Texas,Corpus Christi South—Brownsville
+TX-35,TX,35,Texas,San Antonio South—Seguin—Floresville
+TX-36,TX,36,Texas,Pearland—Beaumont West—Lufkin
+TX-37,TX,37,Texas,Austin East
+TX-38,TX,38,Texas,Cypress—Tomball
+UT-01,UT,01,Utah,Salt Lake City
+UT-02,UT,02,Utah,Ogden—Logan
+UT-03,UT,03,Utah,Provo—St. George—Eastern Utah
+UT-04,UT,04,Utah,West Jordan and Western Utah
+VT-AL,VT,AL,Vermont,Vermont
+VA-01,VA,01,Virginia,Tuckahoe—Williamsburg—Northern Neck
+VA-02,VA,02,Virginia,Virginia Beach—Chesapeake South—Suffolk
+VA-03,VA,03,Virginia,Chesapeake North—Norfolk—Newport News
+VA-04,VA,04,Virginia,Richmond—Petersburg
+VA-05,VA,05,Virginia,Charlottesville—Lynchburg—Danville
+VA-06,VA,06,Virginia,Roanoke—Harrisonburg—Winchester
+VA-07,VA,07,Virginia,Woodbridge—Fredericksburg
+VA-08,VA,08,Virginia,Arlington—Alexandria
+VA-09,VA,09,Virginia,Southwest Virginia
+VA-10,VA,10,Virginia,Leesburg—Manassas
+VA-11,VA,11,Virginia,Fairfax—Reston
+WA-01,WA,01,Washington,Bellevue North—Marysville
+WA-02,WA,02,Washington,Everett—Bellingham
+WA-03,WA,03,Washington,Vancouver and the Lower Columbia
+WA-04,WA,04,Washington,Tri-Cities—Yakima—Moses Lake
+WA-05,WA,05,Washington,Spokane and Eastern Washington
+WA-06,WA,06,Washington,Tacoma and the Olympic Peninsula
+WA-07,WA,07,Washington,Seattle Central
+WA-08,WA,08,Washington,Sammamish—Wenatchee—Ellensburg
+WA-09,WA,09,Washington,Seattle South—Bellevue South—Auburn
+WA-10,WA,10,Washington,Olympia—Lakewood—Puyallup
+WV-01,WV,01,West Virginia,Southern West Virginia
+WV-02,WV,02,West Virginia,Northern West Virginia
+WI-01,WI,01,Wisconsin,Kenosha—Racine—Janesville
+WI-02,WI,02,Wisconsin,Madison
+WI-03,WI,03,Wisconsin,Eau Claire—La Crosse
+WI-04,WI,04,Wisconsin,Milwaukee
+WI-05,WI,05,Wisconsin,Waukesha
+WI-06,WI,06,Wisconsin,Oshkosh—Sheboygan
+WI-07,WI,07,Wisconsin,Wausau—Superior
+WI-08,WI,08,Wisconsin,Green Bay—Appleton
+WY-AL,WY,AL,Wyoming,Wyoming
