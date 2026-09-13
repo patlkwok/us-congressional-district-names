@@ -358,16 +358,16 @@ To propose a change, open an issue using the district correction template.
 | MS-03 | Jackson East—Meridian |
 | MS-04 | Gulfport—Hattiesburg |
 
-## Missouri (8) — **2025 redrawn map**
-*In force for the 2026 elections. A Cole County judge upheld the secretary of state's refusal to certify a repeal referendum on 19 August 2026, ruling the map remains in effect; the decision is under appeal.*
+## Missouri (8) — **2022 map**
+*The 2025 mid-decade map was blocked from use in 2026. The Missouri Supreme Court ruled on 3 September 2026 that a referendum petition filed before the bill's effective date meant the map never took effect; the U.S. Supreme Court declined to disturb that on 10 September. The 2025 map goes to voters as Proposition A in November 2026.*
 
 | # | Name |
 |---|---|
 | MO-01 | St. Louis |
-| MO-02 | Chesterfield—Oakville |
-| MO-03 | Columbia—St. Charles |
-| MO-04 | Kansas City West—Lebanon |
-| MO-05 | Kansas City East—Jefferson City |
+| MO-02 | Oakville—Chesterfield—Washington |
+| MO-03 | St. Charles—Columbia South—Jefferson City |
+| MO-04 | Columbia North—Belton—Lebanon |
+| MO-05 | Kansas City |
 | MO-06 | St. Joseph and Northern Missouri |
 | MO-07 | Springfield—Joplin |
 | MO-08 | Cape Girardeau—Poplar Bluff—West Plains |

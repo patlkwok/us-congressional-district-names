@@ -12,7 +12,7 @@ The full list is in **[districts.md](districts.md)**, or **[districts.csv](distr
 
 ## ⚠ Boundaries change
 
-These names describe specific maps, several of them contested. Texas, Louisiana, Tennessee and Missouri are all in live litigation as of August 2026; Maryland has a constitutional amendment on the November ballot that would permit a redraw from 2027. Each state section notes which map it uses. Anything here can be superseded by a court, and some of it probably will be.
+These names describe specific maps, several of them contested. Texas, Louisiana and Tennessee were in live litigation as of September 2026. Missouri's 2025 map was blocked from use this cycle and goes to voters as Proposition A in November; Maryland has a constitutional amendment on the same ballot that would permit a redraw from 2027. Each state section notes which map it uses. Anything here can be superseded by a court, and some of it probably will be.
 
 Corrections are welcome — see [Contributing](#contributing).
 
